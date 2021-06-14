@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 1edb2cb8f58256a4eafdb2e4f44a2af3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clafoutis
+  fontNames:
+  - Clafoutis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 288c39a3926b3334091c053b08577939, type: 3}
+  - {fileID: 12800000, guid: 4996469515d51454585f21740289cb93, type: 3}
+  - {fileID: 12800000, guid: 939c1bdde44c37740b7f86cb856cf58e, type: 3}
+  - {fileID: 12800000, guid: 4cf347ee0a4651f4ea1a53c3b2bc57e5, type: 3}
+  - {fileID: 12800000, guid: c278203f5af162046b9e85988e93ae33, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

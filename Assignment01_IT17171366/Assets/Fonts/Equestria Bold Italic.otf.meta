@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: dd034b342c1ed0c4394d87e4dc3a0263
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Equestria
+  fontNames:
+  - Equestria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3cab4c47fdf5d0b42bef4d9aa1c266a6, type: 3}
+  - {fileID: 12800000, guid: 0a46a998dfc9c3d40aa94dea04c3c6de, type: 3}
+  - {fileID: 12800000, guid: 6968abdb7861c8844b92c3590eb680f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
